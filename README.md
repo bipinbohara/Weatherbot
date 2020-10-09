@@ -6,3 +6,8 @@
   ```
 2. Created a test.py file and zipped the Package directory.
 3. Uploaded the Package zip file into weatherb function
+4. Screenshots
+
+![lambda](images/lambda.png)
+
+![test](images/test.png)
